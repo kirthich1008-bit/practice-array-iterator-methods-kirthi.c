@@ -1,0 +1,1 @@
+# practice-array-iterator-methods-kirthi.c
